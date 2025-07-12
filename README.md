@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Web developer<br>📚 I'm currently studying BTech<br>🎯 working as a student</p>
+<p align="left">✨ Web developer<br></p>
 
 ###
 
